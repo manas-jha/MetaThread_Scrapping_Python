@@ -1,11 +1,3 @@
-<h1 align="center">MetaThreads</h1>
-
-<p align="center">
-<a href="https://choosealicense.com/licenses/mit/"> <img src="https://img.shields.io/badge/License-MIT-green.svg"></a>
-<a href="https://www.python.org/"><img src="https://img.shields.io/pypi/pyversions/metathreads"></a>
-<a href="https://pypi.org/project/metathreads/"> <img src="https://img.shields.io/pypi/v/metathreads"></a>
-<a href="https://github.com/iSarabjitDhiman/MetaThreads/commits"> <img src="https://img.shields.io/github/last-commit/iSarabjitDhiman/MetaThreads"></a>
-<a href="https://twitter.com/isarabjitdhiman"> <img src="https://img.shields.io/twitter/follow/iSarabjitDhiman?style=social"></a>
 
 ## Overview
 
@@ -116,12 +108,8 @@ Check out configuration docs for the available settings.
 
 ## Authors
 
-- [@iSarabjitDhiman](https://www.github.com/iSarabjitDhiman)
+- [@manas-jha](https://github.com/manas-jha)
 
-## Feedback
 
-If you have any feedback, please reach out to us at hello@sarabjitdhiman.com or contact me on Social Media @iSarabjitDhiman
 
-## Support
-
-For support, email hello@sarabjitdhiman.com
+For support, email kumarmanas2002@gmail.com
