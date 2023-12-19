@@ -18,9 +18,7 @@ def generate_android_id():
 
 
 def shortcode_to_id(thread_url):
-    """
-    Reference : https://gist.github.com/sclark39/9daf13eea9c0b381667b61e3d2e7bc11?permalink_comment_id=2715416#gistcomment-2715416
-    """
+   
     if isinstance(thread_url, int) or thread_url.isnumeric():
         return thread_url
     thread_shortcode = urlparse(thread_url).path.split("/")[-1]

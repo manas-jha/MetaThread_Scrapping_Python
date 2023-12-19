@@ -17,10 +17,7 @@ def main():
 
 
     # check logged in user
-    # print(f"Logged In User {threads.me}")
-    print()
-    print()
-    print()
+    print(f"Logged In User {threads.me}\n")
 
 
 
@@ -28,10 +25,11 @@ def main():
     # print(threads.get_thread("https://www.threads.net/@zuck/post/CuP48CiS5sx"))
 
     # store_thread = threads.get_thread("https://www.threads.net/@zuck/post/CuP48CiS5sx") #Mark Zukerberg
-    store_thread = threads.get_thread("https://www.threads.net/@fully_fitness_tips/post/C1BFCp4S33K")
-    print(type(store_thread))
-    print(store_thread)
+    store_thread = threads.get_thread("https://www.threads.net/@fully_fitness_tips/post/C1BFCp4S33K") #fitness account
 
+    # print(type(store_thread))  
+    print(store_thread)
+    print()
     
 
     # try understanding data hirarchy

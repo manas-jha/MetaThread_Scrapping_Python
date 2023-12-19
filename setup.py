@@ -18,7 +18,7 @@ setup(
     author="Manas Jha",
     author_email="Kumarmanas2002@gmail.com",
     license="MIT",
-    url="https://github.com/iSarabjitDhiman/MetaThreads",
+    url="https://github.com/manas-jha/MetaThread_Scrapping_Python",
     packages=["metathreads"],
     keywords=["metathreads", "threads-api", "threadsapi",
               "meta threads api", "threads api",
