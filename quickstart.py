@@ -9,10 +9,9 @@ def main():
     username = None
     password = None
     if not all([username, password]):
-        # username = str(input("Enter Your Username or Email :"))
-        # password = str(input("Enter Your Password :"))
-        username = "jyoti.pandey.1"
-        password = "Manas@123"
+        username = str(input("Enter Your Username or Email :"))
+        password = str(input("Enter Your Password :"))
+        
     threads.login(username, password)
 
 
